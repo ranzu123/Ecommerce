@@ -26,11 +26,12 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .bg-dark{
-	background-color: #4f868c!important;
+	background-color: #5f2f31!important;
 }
 
-#cart-icon{
+.cart-icon{
 	width:25px;
+	color: #fff;
 	display: inline-block;
 	margin-left: 15px;
 }
